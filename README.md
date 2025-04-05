@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Hanna </h1>
+<h1 align="center">Hi there 👋, I'm Hanna</h1>
 
 <p align="left">
-  🚀 IT Student | AI/ML Enthusiast | Game Development Explorer <br>
-  💻 Full-Stack Developer | Backend: Python · Java · C <br>
-  📚 Passionate about building AI-powered applications <br>
+  🚀 IT Student | UI/UX Developer <br>
+  💻 Front-End Developer | Backend: Python · Java · C <br>
+  📚 Passionate about building AI-powered applications & interested in game development <br>
 </p>
 
 ---
@@ -11,19 +11,19 @@
 ### 🔥 Skills & Technologies
 
 **Languages:**  
-`Python` · `JavaScript` · `C++` · `C` · `Java` · `SQL` · `TypeScript`
+`Python` · `JavaScript` · `C++` · `C` · `Java` · `SQL` · `HTML`
 
 **Web Development:**  
-`React` (Vite, Tailwind) · `FastAPI` · `Node.js`
+`React` (Vite, Tailwind) · `Node.js`
 
 **Databases & Caching:**  
-`MySQL` · `Redis` · `MongoDB`
+`MySQL` · `MongoDB`
 
 **AI/ML Tools:**  
-`YOLO` · `LangChain` · `ChatGPT API` · `Deep Learning`
+`ChatGPT API`
 
 **Platforms & Tools:**  
-`Google Colab` · `GitHub` · `Docker`
+`Google Colab` · `GitHub`
 
 ---
 
@@ -36,6 +36,8 @@ Tech Stack: React · FastAPI · LangChain · MySQL · Redis
 🔹 **[Cafe Management System](https://github.com/hanknixon/Cafe-Management-System)**  
 A simple and effective desktop application to manage a café’s sales and orders.  
 Tech Stack: Java · NetBeans · MySQL
+
+---
 
 ### 🌐 Let's Connect
 
