@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there 👋, I'm Hanna</h1>
 
-<p align="center">
+<p align="left">
   🚀 IT Student | UI/UX Developer <br>
   💻 Front-End Developer | Backend: Python · Java · C <br>
   📚 Passionate about building AI-powered applications & interested in game development <br>
