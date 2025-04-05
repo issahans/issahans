@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Hans</h1>
+<h1 align="center">Hi there 👋, I'm Hanna </h1>
 
-<p align="center">
+<p align="left">
   🚀 IT Student | AI/ML Enthusiast | Game Development Explorer <br>
   💻 Full-Stack Developer | Backend: Python · Java · C <br>
   📚 Passionate about building AI-powered applications <br>
@@ -11,7 +11,7 @@
 ### 🔥 Skills & Technologies
 
 **Languages:**  
-`Python` · `JavaScript` · `C++` · `C` · `Java` · `SQL` · `HTML`
+`Python` · `JavaScript` · `C++` · `C` · `Java` · `SQL` · `TypeScript`
 
 **Web Development:**  
 `React` (Vite, Tailwind) · `FastAPI` · `Node.js`
@@ -33,29 +33,28 @@
 AI-powered learning platform for interactive quizzes, resource curation, and student progress tracking.  
 Tech Stack: React · FastAPI · LangChain · MySQL · Redis
 
-🔹 **[Cook4Us](https://github.com/your-username/Cook4Us)**  
-Community-driven recipe-sharing platform with a robust Node.js backend.  
-Tech Stack: Node.js · MongoDB · Express · React
+🔹 **[Cafe Management System](https://github.com/hanknixon/Cafe-Management-System)**  
+A simple and effective desktop application to manage a café’s sales and orders.  
+Tech Stack: Java · NetBeans · MySQL
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Hans's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanknixon&show_icons=true&theme=tokyonight" alt="Hans's GitHub stats" />
 </p>
 
 ---
 
 ### 🌐 Let's Connect
 
-- 📬 [LinkedIn](www.linkedin.com/in/hannarenju) 
+- 📬 [LinkedIn](https://www.linkedin.com/in/hannarenju)
 - 💡 Currently working on: `HASH` 🚀
-- 💬 Feel free to connect or discuss cool project ideas!
+- 💬 Always happy to collaborate or brainstorm ideas!
 
 ---
 
-<!-- Bonus aesthetic touch -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 </p>
