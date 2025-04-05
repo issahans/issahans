@@ -39,11 +39,10 @@ Tech Stack: Java · NetBeans · MySQL
 
 ---
 
-### 🌐 Let's Connect
-
+### 🌐 Let's Connect 
 - 📬 [LinkedIn](https://www.linkedin.com/in/hannarenju)
 - 💡 Currently working on: `HASH` 🚀
-- 💬 Always happy to collaborate or brainstorm ideas!
+- 💬 Always happy to collaborate!
 
 ---
 
