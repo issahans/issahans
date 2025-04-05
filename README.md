@@ -37,16 +37,6 @@ Tech Stack: React · FastAPI · LangChain · MySQL · Redis
 A simple and effective desktop application to manage a café’s sales and orders.  
 Tech Stack: Java · NetBeans · MySQL
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanknixon&show_icons=true&theme=tokyonight" alt="Hans's GitHub stats" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/hannarenju)
